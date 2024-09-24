@@ -1,0 +1,5 @@
+com\example\redis\config\RedisConfig.class
+com\example\redis\SpringRedisPubsubApplication.class
+com\example\redis\subscriber\Receiver.class
+com\example\redis\model\Product.class
+com\example\redis\publisher\Publisher.class
